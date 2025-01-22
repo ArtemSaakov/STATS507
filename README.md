@@ -1,2 +1,2 @@
 # STATS507
-My stats homework and other content
+My STATS507 homework assignments and other content
